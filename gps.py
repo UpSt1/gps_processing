@@ -1,4 +1,4 @@
-folder = 'l:\\gps'
+folder = 'l:\\gps' 
 import gpxpy.gpx as gpx
 from rdp import rdp
 import numpy as np
